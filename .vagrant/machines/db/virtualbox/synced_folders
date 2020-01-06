@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/environment":{"guestpath":"/home/ubuntu/environment","hostpath":"C:/Users/Victor Jimenez/Engineering47/week7/day1/Multivagrant_Ansible/environment/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Victor Jimenez/Engineering47/week7/day1/Multivagrant_Ansible","disabled":false,"__vagrantfile":true}}}
